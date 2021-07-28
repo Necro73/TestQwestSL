@@ -1,0 +1,130 @@
+* {
+    font-family: Roboto;
+}
+
+.headline {
+    text-align: center;
+}
+
+.mastersort {
+    margin-left: 190px;
+}
+
+.box {
+    width:80%;
+    height: 200px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color:#E8E8E8; 
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.strmess {
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width:99.5%;
+    height: 50px;
+    display: flex;
+    background-color:#D8D8D8; 
+    border-radius: 10px;
+    margin-bottom: 1px;
+}
+
+.usernamecard {
+    word-wrap: break-word;
+    text-indent: 10px;
+    width: 400px;
+    background-color:#D8D8D8; 
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.emailcard {
+    word-wrap: break-word;
+    text-indent: 10px;
+    width: 800px;
+    background-color:#D8D8D8; 
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.textcard {
+    word-wrap: break-word;
+    text-indent: 10px;
+    width: 900px;
+    background-color:#D8D8D8; 
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.statuscard {
+    word-wrap: break-word;
+    text-indent: 10px;
+    width: 75px;
+    background-color:#D8D8D8; 
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.confirmcard {
+    width: 50px;
+    height: 50px;
+}
+
+.sendform {
+    width: 225px;
+    margin-top: 100px;
+    margin-left: 190px;
+}
+
+.usernameQ {
+    float: right;
+    padding-top: 5px;
+}
+
+.emailQ {
+    float: right;
+    padding-top: 5px;
+}
+
+.textQ {
+    float: right;
+    padding-top: 5px;
+}
+
+.sendbutton {
+    float: right;
+    padding-top: 5px;
+}
+
+.page {
+    display: flex;
+    width:121px;
+    height: 50px;
+    margin-top: 3px;
+    background-color: #E8E8E8; 
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.buttonarrow {
+    width: 50px;
+    height: 50px;
+
+}
+
+.textform {
+    display: contents;
+    padding-top: 5px;
+}
+
